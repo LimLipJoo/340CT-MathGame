@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background_main.png</file>
+        <file>addition.png</file>
+        <file>main_button.png</file>
+        <file>title.png</file>
+        <file>close.png</file>
+        <file>answer_blank.png</file>
+        <file>game_bg.png</file>
+        <file>options.png</file>
+        <file>timer_bg.png</file>
+        <file>heart.png</file>
+        <file>healthPotion.png</file>
+        <file>magnifying.png</file>
+        <file>stopwatch.png</file>
+        <file>timer_icon.png</file>
+        <file>disabled_button.png</file>
+        <file>bgm.mp3</file>
+        <file>bgm2.mp3</file>
+        <file>bgm2.wav</file>
+        <file>bgm.wav</file>
+        <file>correct.wav</file>
+        <file>gameover.wav</file>
+        <file>wrong.wav</file>
+    </qresource>
+</RCC>
